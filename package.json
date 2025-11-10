@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "interdimensional-tv",
   "version": "0.1.0",
   "private": true,
@@ -45,5 +46,20 @@
     "gh-pages": "^6.3.0",
     "postcss": "^8.5.6",
     "tailwindcss": "^3.4.1"
+=======
+  "name": "interdimensional-cable",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+>>>>>>> b523b36b1f044dfa894c2f09c85fb0d7b2cb0050
   }
 }
