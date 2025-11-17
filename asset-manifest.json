@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/interdimensional-cable/static/css/main.e6c13ad2.css",
+    "main.js": "/interdimensional-cable/static/js/main.80003731.js",
+    "static/js/453.cf02847a.chunk.js": "/interdimensional-cable/static/js/453.cf02847a.chunk.js",
+    "index.html": "/interdimensional-cable/index.html",
+    "main.e6c13ad2.css.map": "/interdimensional-cable/static/css/main.e6c13ad2.css.map",
+    "main.80003731.js.map": "/interdimensional-cable/static/js/main.80003731.js.map",
+    "453.cf02847a.chunk.js.map": "/interdimensional-cable/static/js/453.cf02847a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.80003731.js"
+  ]
+}
