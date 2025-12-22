@@ -213,7 +213,7 @@ export default function App() {
       <div style={{ maxWidth: 1000, margin: "0 auto", display: "grid", gap: 18 }}>
         <header style={{ display: "flex", justifyContent: "space-between", alignItems: "center" }}>
           <h1 style={{ margin: 0, fontSize: 20 }}>Cable Algorithm</h1>
-          <div style={{ fontSize: 12, color: "#bbb" }}>YouTube but you control the algorithm!</div>
+          <div style={{ fontSize: 12, color: "#bbb" }}></div>
         </header>
 
         <main style={{ display: "grid", gridTemplateColumns: "1fr 320px", gap: 18 }}>
